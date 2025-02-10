@@ -10,6 +10,4 @@ For this assignment please do the following:
 
 - write the output to a new file called student_grade_differences.csv
 
-- change to test git
-
 '''
